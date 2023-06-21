@@ -1,0 +1,15 @@
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/bin/Debug/net7.0/shop-p
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/bin/Debug/net7.0/shop-p.deps.json
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/bin/Debug/net7.0/shop-p.runtimeconfig.json
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/bin/Debug/net7.0/shop-p.dll
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/bin/Debug/net7.0/shop-p.pdb
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.csproj.AssemblyReference.cache
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.GeneratedMSBuildEditorConfig.editorconfig
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.AssemblyInfoInputs.cache
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.AssemblyInfo.cs
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.csproj.CoreCompileInputs.cache
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.dll
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/refint/shop-p.dll
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.pdb
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/shop-p.genruntimeconfig.cache
+/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/Debug/net7.0/ref/shop-p.dll
