@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-class Producto
+partial class Producto
 {
     private string nombre;
     private decimal precio;
@@ -16,36 +16,36 @@ class Producto
 
     public string ObtenerNombre()
     {
-        return nombre;
+        return this.nombre;
     }
 
     public decimal ObtenerPrecio()
     {
-        return precio;
+        return this.precio;
     }
 
     public int ObtenerCantidad()
     {
-        return cantidad;
+        return this.cantidad;
     }
 }
 
-class Program
+  partial class Program
 {
     static ArrayList listaProductos = new ArrayList();
 
-    static void Main()
+     static void Main()
     {
         bool salir = false;
 
         while (!salir)
         {
-            Console.WriteLine("*********** Menú ***********");
+            Console.WriteLine("--------- Dollarcity ---------");
             Console.WriteLine("1. Registrar un producto");
             Console.WriteLine("2. Buscar un producto");
             Console.WriteLine("3. Mostrar todos los productos");
             Console.WriteLine("4. Salir");
-            Console.WriteLine("*****************************");
+            Console.WriteLine("------------------");
 
             Console.WriteLine("Ingrese una opción:");
             string opcion = Console.ReadLine();
@@ -65,7 +65,7 @@ class Program
                     salir = true;
                     break;
                 default:
-                    Console.WriteLine("Opción inválida.");
+                    Console.WriteLine("Opción inválida, escribe bien Dislexico.");
                     break;
             }
 
@@ -87,7 +87,7 @@ class Program
         Producto nuevoProducto = new Producto(nombre, precio, cantidad);
         listaProductos.Add(nuevoProducto);
 
-        Console.WriteLine("Producto registrado exitosamente.");
+        Console.WriteLine("Producto registrado exitosamente y cobrado a su cuenta.");
     }
 
     static void BuscarProducto()

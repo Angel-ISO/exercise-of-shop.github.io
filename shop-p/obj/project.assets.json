@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/angelgabriel/.nuget/packages/": {}
+    "/home/apolm01-007/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/shop-p.csproj",
+      "projectUniqueName": "/home/apolm01-007/Documents/exercise-of-shop.github.io/shop-p/shop-p.csproj",
       "projectName": "shop-p",
-      "projectPath": "/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/shop-p.csproj",
-      "packagesPath": "/home/angelgabriel/.nuget/packages/",
-      "outputPath": "/home/angelgabriel/Documentos/exercise-of-shop.github.io/shop-p/obj/",
+      "projectPath": "/home/apolm01-007/Documents/exercise-of-shop.github.io/shop-p/shop-p.csproj",
+      "packagesPath": "/home/apolm01-007/.nuget/packages/",
+      "outputPath": "/home/apolm01-007/Documents/exercise-of-shop.github.io/shop-p/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/angelgabriel/.nuget/NuGet/NuGet.Config"
+        "/home/apolm01-007/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
